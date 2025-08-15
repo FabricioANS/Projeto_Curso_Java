@@ -4,8 +4,7 @@ package application;
 import java.util.Locale; // Para definir o padrão de idioma
 import java.util.Scanner; // Para ler a entrada do usuário
 
-// Importa a classe 'Product' do pacote 'emtities'
-import emtities.Product;
+import entities.Product;
 
 // Declara a classe principal do programa
 public class Program {
